@@ -1,4 +1,4 @@
-Hi, I’m @normanbentley, I’m currently learning 🌱
+
 
 <!---
 normanbentley/normanbentley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
